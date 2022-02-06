@@ -4,9 +4,9 @@
 - [Practical Machine Learning with Rust](https://github.com/Apress/practical-machine-learning-w-rust)
 - [Rustのデータフレームcrateのpolarsとpandasの比較](https://illumination-k.dev/posts/rust/polars_pandas)
 
-read_csv. 
-https://pola-rs.github.io/polars/polars/docs/eager/index.html#read-csv. 
-write_csv. 
+read_csv  
+https://pola-rs.github.io/polars/polars/docs/eager/index.html#read-csv  
+write_csv  
 https://pola-rs.github.io/polars/polars/docs/eager/index.html#write-csv  
 
 Jupyter Lab でも Jupyter Notebook でも使えるが、Jupyter Lab の方が DataFrame の出力がキレイに表示された。  
