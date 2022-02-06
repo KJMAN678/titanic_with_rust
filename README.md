@@ -11,4 +11,6 @@ https://pola-rs.github.io/polars/polars/docs/eager/index.html#write-csv
 
 Jupyter Lab でも Jupyter Notebook でも使えるが、Jupyter Lab の方が DataFrame の出力がキレイに表示された。  
 
-[SMART CORE](https://smartcorelib.org/)
+[SMART CORE](https://smartcorelib.org/)　　
+
+[[機械学習] SmartCoreでペンギンの分類をやってみる[Rust]](https://dev.classmethod.jp/articles/smartcore-palmer/)
