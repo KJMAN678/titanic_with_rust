@@ -1,0 +1,5 @@
+# RustのCargoのパス指定
+source $HOME/.cargo/env
+
+# Jupyter Lab 起動
+jupyter lab
